@@ -30,6 +30,7 @@
   * [babel](./format/babel.md)
 
   * [mock](./format/mock.md)
+  * [gulpfile]()
   * 模块化
     * [模块代码格式 es6](./format/module-es6.md)
     * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
@@ -70,5 +71,5 @@
   * [面试经过](./link/interview.md) 
   * 岗位要求   
   * 题目链接   
-* [尾页](README.md)
+* [尾页](endPage.md)
 
