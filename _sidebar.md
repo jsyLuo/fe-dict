@@ -1,14 +1,13 @@
 # Table of contents
 
 * [首页](README.md)
-* [常用](./link/link1.md)
+* [常用](link/link1.md)
   * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
   * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
   * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
   * [博客链接(前辈)](./link/前辈.md)
     * [技术](./link/blog.md)
   * [订阅技术](./link/subscibe.md) 
-  * [阮一峰](./link/阮一峰.md)
   * [熟人链接](./link/they.md)
 * [工具使用](tool/oftenUse.md)
   * npm
@@ -22,17 +21,21 @@
     * [遴选](tool/git/20180527/cherry.md)
     * [error: You have not concluded your merge](tool/git/20180527/not-conclude-merge.md)
     * 分支打包
+  * [docsify](format/docsify.md)  
 
 * 文件格式
-  * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
+
   * [markdown](./format/markdown.md)
   * [gitignore](./format/gitignore.md)
   * [babel](./format/babel.md)
-  * [模块代码格式 es6](./format/module-es6.md)
-  * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
-  * [模块导入导出](./format/module-all.md)
+
   * [mock](./format/mock.md)
-  * [docsify](./format/docsify.md)
+  * 模块化
+    * [模块代码格式 es6](./format/module-es6.md)
+    * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
+    * [模块导入导出](./format/module-all.md)
+    * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
+
 * 技术网文 
   * fe 
     * [20180527](./feA-list/other/20180527.md) 
