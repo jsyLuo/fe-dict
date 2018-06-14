@@ -21,7 +21,7 @@
     * [遴选](tool/git/20180527/cherry.md)
     * [error: You have not concluded your merge](tool/git/20180527/not-conclude-merge.md)
     * 分支打包
-  * [docsify](format/docsify.md)  
+  * [docsify](tool/docsify.md)  
 
 * 文件格式
 
