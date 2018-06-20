@@ -6,8 +6,7 @@ ctrl + /
 
 撤销 ctrl+z 反撤销  Ctrl+Shift+Z
 
-选择多列 
-alt+shift+左键   
+选择多列    
 alt+shift+鼠标左键
 
 ** 常用插件 **
