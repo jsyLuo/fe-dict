@@ -2,7 +2,7 @@
 * [codepen(spinners)](https://codepen.io/collection/HtAne/2/)
 
 ### 常用链接
-* [熟人链接](./they.md)
+* [熟人链接](link/they.md)
 * [学习路线图(2017年)](http://www.aseoe.com/special/webroadmap/)
 * [baidu前端学院](http://ife.baidu.com/course/all)
 * [v2ex](http://www.v2ex.com/)

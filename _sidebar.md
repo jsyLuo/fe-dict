@@ -4,18 +4,14 @@
 * 链接
   * [常用链接](link/link1.md)
   * [前端推荐链接](link/link2.md)
-  * [订阅技术](./link/subscibe.md) 
+  * [订阅技术](link/subscibe.md) 
   * 博客链接
     * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
     * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
     * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
-    * [前辈](./link/前辈.md)
-    * [技术](./link/blog.md)
+    * [前辈](link/前辈.md)
+    * [技术](link/blog.md)
 
-
-  ### 前端推荐网站
-* [codepen](https://codepen.io/pen/)
-* [other]()
 * [工具使用](tool/oftenUse.md)
   * npm
     * [用nrm一键切换npm源](https://www.cnblogs.com/wangmeijian/p/7072053.html)
