@@ -1,7 +1,10 @@
+### 特效链接
+* [codepen(spinners)](https://codepen.io/collection/HtAne/2/)
+
 ### 常用链接
+* [熟人链接](./they.md)
 * [学习路线图(2017年)](http://www.aseoe.com/special/webroadmap/)
 * [baidu前端学院](http://ife.baidu.com/course/all)
-* [codepen(spinners)](https://codepen.io/collection/HtAne/2/)
 * [v2ex](http://www.v2ex.com/)
 
 ### 工具相关
@@ -17,11 +20,7 @@
 * [es6浏览器支持情况check](http://ruanyf.github.io/es-checker/index.cn.html)  &nbsp; [源代码](http://www.ruanyifeng.com/blog/2015/06/es-checker.html)
 * [百度统计(浏览器市场份额)](https://tongji.baidu.com/data/browser)
 
-### 前端特效网站
-* [codepen](https://codepen.io/pen/)
-
 ### 其他
 * [kanxue-websec](https://www.kanxue.com/book-6.htm)
-
 
 
