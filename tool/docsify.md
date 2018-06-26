@@ -41,3 +41,14 @@ _sidebar.md 文件，内容如下
 * [指南](zh-cn/guide)
 ```
 访问 http://localhost:3000
+
+
+### tips
+
+```
+* 链接
+  * [常用链接](link/link1.md)
+
+* [熟人链接](link/they.md)   // link1.md包含同级目录
+                            // 这样写才能docsify识别路由
+```
