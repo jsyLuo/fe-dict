@@ -24,7 +24,8 @@
     * [遴选](tool/git/20180527/cherry.md)
     * [error: You have not concluded your merge](tool/git/20180527/not-conclude-merge.md)
     * 分支打包
-  * [docsify](tool/docsify.md)  
+  * [docsify](tool/docsify.md) 
+    * [其他](tool/docsify_other.md) 
 
 * 文件格式
 
@@ -52,9 +53,10 @@
     * [20180612](./feA-list/vue/612.md)
  
 * 个人笔记
+  * [want模仿网站](feC-aq/somePage/0627.md)
   * js 
     * 代码片段
-      * [复制到剪贴板](./feC-aq/js/code/copy.md)
+      * [复制到剪贴板](feC-aq/js/code/copy.md)
       * [正则]()
       * [时间格式化]()
       * [计算页面高度](./feC-aq/js/code/计算高度.md)
