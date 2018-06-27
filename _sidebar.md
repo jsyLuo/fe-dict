@@ -24,6 +24,8 @@
     * [遴选](tool/git/20180527/cherry.md)
     * [error: You have not concluded your merge](tool/git/20180527/not-conclude-merge.md)
     * 分支打包
+    * [git Wip](tool/git/20180527/WIP.md)
+    * [撤销commit](tool/git/20180527/cancelCommit.md)
   * [docsify](tool/docsify.md) 
     * [其他](tool/docsify_other.md) 
 
