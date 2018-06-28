@@ -14,6 +14,9 @@
 
 * [工具使用](tool/oftenUse.md)
   * npm
+    * [基本使用](tool/npm/use.md)
+    * [packagejson 例子](tool/npm/json.md)
+    * [install package](tool/npm/install.md)
     * [用nrm一键切换npm源](https://www.cnblogs.com/wangmeijian/p/7072053.html)
    
   * [git](tool/git/git.md)
@@ -42,10 +45,11 @@
     * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
     * [模块导入导出](./format/module-all.md)
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
-
+* 第三方框架
+  * [express]()
 * 技术网文 
   * fe 
-    * [20180527](./feA-list/other/20180527.md) 
+    * [20180527](./feA-list/fe/20180527.md) 
   * js 
     * [20180528](./feA-list/js/20180528.md) 
   * css  
@@ -53,6 +57,8 @@
   * html  
   * vue 
     * [20180612](./feA-list/vue/612.md)
+  * 其他
+     * [20180628](feA-list/other/0628.md)
  
 * 个人笔记
   * [want模仿网站](feC-aq/somePage/0627.md)
