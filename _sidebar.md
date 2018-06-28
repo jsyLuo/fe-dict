@@ -47,9 +47,12 @@
     * [模块导入导出](./format/module-all.md)
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
 * 第三方框架
-  * [express]()
+  * [express](third-lib/express.md)
 * 技术网文 
+  * be
+    * [20180628](feA-list/be/be0628.md)
   * fe 
+    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
     * [20180527](./feA-list/fe/20180527.md) 
   * js 
     * [20180528](./feA-list/js/20180528.md) 
@@ -60,6 +63,8 @@
     * [20180612](./feA-list/vue/612.md)
   * 其他
      * [20180628](feA-list/other/0628.md)
+  * 视频
+    * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian)   
  
 * 个人笔记
   * [want模仿网站](feC-aq/somePage/0627.md)
