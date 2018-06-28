@@ -11,7 +11,10 @@ By default, **npm install**  will install all modules listed as dependencies in 
 
 #### blog 
 [npm package.json中的dependencies和devDependencies的区别](https://www.cnblogs.com/jes_shaw/p/4497836.html)
-一个node package有两种依赖，一种是dependencies一种是devDependencies，其中前者依赖的项该是正常运行该包时所需要的依赖项，而后者则是开发的时候需要的依赖项，像一些进行单元测试之类的包。
+  
+  [node package有两种依赖](https://blog.csdn.net/jackshiny/article/details/51925574)  
+  
+  一个node package有两种依赖，一种是dependencies一种是devDependencies，其中前者依赖的项该是正常运行该包时所需要的依赖项，而后者则是开发的时候需要的依赖项，像一些进行单元测试之类的包。
 
 如果你将包下载下来在包的根目录里运行
 

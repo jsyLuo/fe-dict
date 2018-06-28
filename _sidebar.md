@@ -15,9 +15,10 @@
 * [工具使用](tool/oftenUse.md)
   * npm
     * [基本使用](tool/npm/use.md)
-    * [packagejson 例子](tool/npm/json.md)
+    * [packagejson](tool/npm/json.md)
     * [install package](tool/npm/install.md)
-    * [用nrm一键切换npm源](https://www.cnblogs.com/wangmeijian/p/7072053.html)
+    * [用nrm一键切换npm源 | blog](https://www.cnblogs.com/wangmeijian/p/7072053.html)
+    * [包名list](tool/npm/myPackage.md)
    
   * [git](tool/git/git.md)
     * [云仓库忽略下划线](tool/git/igmore-underscore.md)
@@ -62,6 +63,8 @@
  
 * 个人笔记
   * [want模仿网站](feC-aq/somePage/0627.md)
+  * fe
+    * [list0628](fec-aq/fe/0628.md)
   * js 
     * 代码片段
       * [复制到剪贴板](feC-aq/js/code/copy.md)
