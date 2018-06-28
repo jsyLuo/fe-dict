@@ -1,3 +1,33 @@
+[npm-install-wont-install-devdependencies| stackoverflow](https://stackoverflow.com/questions/34700610/npm-install-wont-install-devdependencies)
+
+
+
+#### 官网
+[install文档链接](https://docs.npmjs.com/cli/install)
+>Install the dependencies in the local node_modules folder.
+By default, **npm install**  will install all modules listed as dependencies in package.json.
+
+
+
+#### blog 
+[npm package.json中的dependencies和devDependencies的区别](https://www.cnblogs.com/jes_shaw/p/4497836.html)
+一个node package有两种依赖，一种是dependencies一种是devDependencies，其中前者依赖的项该是正常运行该包时所需要的依赖项，而后者则是开发的时候需要的依赖项，像一些进行单元测试之类的包。
+
+如果你将包下载下来在包的根目录里运行
+
+npm install 
+默认会安装两种依赖，如果你只是单纯的使用这个包而不需要进行一些改动测试之类的，可以使用
+
+npm install --production
+只安装dependencies而不安装devDependencies。
+
+如果你是通过以下命令进行安装
+
+npm install packagename
+那么只会安装dependencies，如果想要安装devDependencies，需要输入
+
+npm install packagename --dev  
+
 #### 帖子1
 [npm 安装参数中的 --save-dev 是什么意思](https://segmentfault.com/q/1010000000403629)
 
