@@ -52,6 +52,7 @@
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
+    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
     * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
     * [20180527](./feA-list/fe/20180527.md) 
   * js 
@@ -91,6 +92,7 @@
       * [中英文对齐问题](./feC-aq/css/中英文对齐.md)
 * 面试笔试
   * [面试经过](./link/interview.md) 
+  * [面试题整理](求职/面试题.md)
   * 岗位要求   
   * 题目链接   
 * [尾页](endPage.md)
