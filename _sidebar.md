@@ -34,7 +34,7 @@
     * [其他](tool/docsify_other.md) 
 
 * 文件格式
-
+  * [vuejs](format/vue.md)
   * [markdown](./format/markdown.md)
   * [gitignore](./format/gitignore.md)
   * [babel](./format/babel.md)
