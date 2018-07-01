@@ -32,7 +32,7 @@
     * [撤销commit](tool/git/20180527/cancelCommit.md)
   * [docsify](tool/docsify.md) 
     * [其他](tool/docsify_other.md) 
-
+  * Postman
 * 文件格式
   * [vuejs](format/vue.md)
   * [markdown](./format/markdown.md)
@@ -48,6 +48,8 @@
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
 * 第三方框架
   * [express](third-lib/express.md)
+  * [jade 使用](https://www.cnblogs.com/huaziWEB/p/4526719.html)
+  * [vue resource](https://www.cnblogs.com/chenhuichao/p/8308993.html)
 * 技术网文 
   * be
     * [20180628](feA-list/be/be0628.md)
@@ -62,8 +64,7 @@
   * html  
   * vue 
     * [20180612](./feA-list/vue/612.md)
-  * 其他
-     * [20180628](feA-list/other/0628.md)
+     
   * 视频
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian)   
  
@@ -87,6 +88,11 @@
   * 插件
     * [bootstrap table]()  
   * keyword
+    * fe
+      * [20180701](feC-aq/fe/0628.md)
+    * be
+      * [20180528](feC-aq/be/20180528.md)
+      * [关于框架](feC-aq/be/关于框架.md)
     * [js](./feC-aq/js/keyword0528.md)
     * [css](./feC-aq/css/keyword611.md)
       * [中英文对齐问题](./feC-aq/css/中英文对齐.md)
