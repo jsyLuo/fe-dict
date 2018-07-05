@@ -34,6 +34,7 @@
     * [其他](tool/docsify_other.md) 
   * Postman
 * 文件格式
+  * [es6](format/es6.md)
   * [vuejs](format/vue.md)
   * [markdown](./format/markdown.md)
   * [gitignore](./format/gitignore.md)
@@ -99,7 +100,8 @@
 * 面试笔试
   * [面试经过](./link/interview.md) 
   * [面试题整理](求职/面试题.md)
-  * 岗位要求   
+  * 岗位要求
+    * [阿里的 P6 到底是什么标准？淘宝店铺团队招人！](https://mp.weixin.qq.com/s/JM9RLZT6--PS30JPezZaXQ)   
   * 题目链接   
 * [尾页](endPage.md)
 
