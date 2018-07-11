@@ -49,6 +49,7 @@
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
 * 第三方框架
   * [express](third-lib/express.md)
+    * [踩坑记](third-lib/express-issue.md)
   * [jade 使用](https://www.cnblogs.com/huaziWEB/p/4526719.html)
   * [vue resource](https://www.cnblogs.com/chenhuichao/p/8308993.html)
 * 技术网文 
@@ -68,22 +69,28 @@
      
   * 视频
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian)   
+
+* 代码片段
+  * js
+      * [复制到剪贴板](feC-aq/js/code/copy.md)
+      * [正则]()
+      * [时间格式化]()
+      * [计算页面高度](./feC-aq/js/code/计算高度.md)
+  * css
+    * [强制换行](代码片段/css/强制换行.md)     
  
 * 个人笔记
   * [want模仿网站](feC-aq/somePage/0627.md)
   * fe
     * [list0628](fec-aq/fe/0628.md)
   * js 
-    * 代码片段
-      * [复制到剪贴板](feC-aq/js/code/copy.md)
-      * [正则]()
-      * [时间格式化]()
-      * [计算页面高度](./feC-aq/js/code/计算高度.md)
+
     * [es6]()  
   * css  
     * [媒体查询]()
   * html  
   * vue
+    * [返回 go -1](./feC-aq/vue/goback.md)
     * [list0604](./feC-aq/vue/list0604.md)
     * [export default]()
   * 插件
