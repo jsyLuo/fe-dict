@@ -36,8 +36,10 @@
   * [docsify](tool/docsify.md) 
     * [其他](tool/docsify_other.md) 
   * Postman
+  * [正则](tool/regular.md)
+
 * 文件格式
-  * [正则]()
+
   * [es6](format/es6.md)
   * [vuejs](format/vue.md)
   * [markdown](./format/markdown.md)
@@ -97,6 +99,7 @@
     * [返回 go -1](./feC-aq/vue/goback.md)
     * [list0604](./feC-aq/vue/list0604.md)
     * [export default]()
+    * [this作用域问题](feC-aq/vue/this.md)
   * 插件
     * [bootstrap table]()  
   * keyword
