@@ -14,8 +14,58 @@
     * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
     * [前辈](link/前辈.md)
     * [技术](link/blog.md)
+* keyword
+    * fe
+      * [20180701](feC-aq/fe/0628.md)
+    * be
+      * [20180528](feC-aq/be/20180528.md)
+      * [关于框架](feC-aq/be/关于框架.md)
+    * [js](./feC-aq/js/keyword0528.md)
+    * [css](./feC-aq/css/keyword611.md)
+      * [中英文对齐问题](./feC-aq/css/中英文对齐.md)  
+* 个人笔记
+  * [want模仿网站](feC-aq/somePage/0627.md)
+  * fe
+    * [list0628](fec-aq/fe/0628.md)
+  * js 
 
+    * [es6]()  
+  * css  
+    * [媒体查询]()
+  * html  
+  * vue
+    * [样式没应用](feC-aq/vue/样式没应用.md)
+    * [click无效](feC-aq/vue/click无效.md)
+    * [返回 go -1](./feC-aq/vue/goback.md)
+    * [list0604](./feC-aq/vue/list0604.md)
+    * [export default]()
+    * [this作用域问题](feC-aq/vue/this.md)
+      
+* 技术网文 
+  * be
+    * [20180628](feA-list/be/be0628.md)
+  * fe 
+    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
+    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
+    * [20180527](./feA-list/fe/20180527.md) 
+  * js 
+    * [20180528](./feA-list/js/20180528.md) 
+  * css  
+    * [20180613](./feA-list/css/css20180613.md)
+  * html  
+  * vue 
+    * [20180612](./feA-list/vue/612.md)
+     
+  * 视频
+    * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
 * [工具使用](tool/oftenUse.md)
+  * 第三方框架
+    * [express](third-lib/express.md)
+      * [踩坑记](third-lib/express-issue.md)
+    * [jade 使用](https://www.cnblogs.com/huaziWEB/p/4526719.html)
+    * [vue resource](https://www.cnblogs.com/chenhuichao/p/8308993.html)
+  * 插件
+    * [bootstrap table]()    
   * npm
     * [基本使用](tool/npm/use.md)
     * [packagejson](tool/npm/json.md)
@@ -38,6 +88,18 @@
   * Postman
   * [正则](tool/regular.md)
 
+* 代码片段
+  * js
+      * [复制到剪贴板](feC-aq/js/code/copy.md)
+      * [正则]()
+      * [时间格式化]()
+      * [计算页面高度](./feC-aq/js/code/计算高度.md)
+      * [异步](代码片段/js/异步.md)
+  * css
+    * [强制换行](代码片段/css/强制换行.md)   
+  * vue
+    * [自定义下拉框](代码片段/vue/custom-select.md)  
+
 * 文件格式
 
   * [es6](format/es6.md)
@@ -53,66 +115,8 @@
     * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
     * [模块导入导出](./format/module-all.md)
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
-* 第三方框架
-  * [express](third-lib/express.md)
-    * [踩坑记](third-lib/express-issue.md)
-  * [jade 使用](https://www.cnblogs.com/huaziWEB/p/4526719.html)
-  * [vue resource](https://www.cnblogs.com/chenhuichao/p/8308993.html)
-* 技术网文 
-  * be
-    * [20180628](feA-list/be/be0628.md)
-  * fe 
-    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
-    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
-    * [20180527](./feA-list/fe/20180527.md) 
-  * js 
-    * [20180528](./feA-list/js/20180528.md) 
-  * css  
-    * [20180613](./feA-list/css/css20180613.md)
-  * html  
-  * vue 
-    * [20180612](./feA-list/vue/612.md)
-     
-  * 视频
-    * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian)   
 
-* 代码片段
-  * js
-      * [复制到剪贴板](feC-aq/js/code/copy.md)
-      * [正则]()
-      * [时间格式化]()
-      * [计算页面高度](./feC-aq/js/code/计算高度.md)
-  * css
-    * [强制换行](代码片段/css/强制换行.md)     
- 
-* 个人笔记
-  * [want模仿网站](feC-aq/somePage/0627.md)
-  * fe
-    * [list0628](fec-aq/fe/0628.md)
-  * js 
 
-    * [es6]()  
-  * css  
-    * [媒体查询]()
-  * html  
-  * vue
-    * [样式没应用](feC-aq/vue/样式没应用.md)
-    * [click无效](feC-aq/vue/click无效.md)
-    * [返回 go -1](./feC-aq/vue/goback.md)
-    * [list0604](./feC-aq/vue/list0604.md)
-    * [export default]()
-    * [this作用域问题](feC-aq/vue/this.md)
-  * 插件
-    * [bootstrap table]()  
-  * keyword
-    * fe
-      * [20180701](feC-aq/fe/0628.md)
-    * be
-      * [20180528](feC-aq/be/20180528.md)
-      * [关于框架](feC-aq/be/关于框架.md)
-    * [js](./feC-aq/js/keyword0528.md)
-    * [css](./feC-aq/css/keyword611.md)
-      * [中英文对齐问题](./feC-aq/css/中英文对齐.md)
 * 面试笔试
   * [面试经过](./link/interview.md) 
   * [面试题整理](求职/面试题.md)
