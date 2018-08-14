@@ -46,6 +46,7 @@
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
+    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
     * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
     * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
     * [20180527](./feA-list/fe/20180527.md) 
@@ -60,6 +61,9 @@
   * 视频
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
 * [工具使用](tool/oftenUse.md)
+  * vscode
+    * [team配置](tool/vscode/ued.md)
+    * [同事Hu配置](tool/vscode/hu.md)
   * 第三方框架
     * [express](third-lib/express.md)
       * [踩坑记](third-lib/express-issue.md)
