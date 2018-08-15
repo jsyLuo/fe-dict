@@ -30,11 +30,13 @@
     * [list0628](fec-aq/fe/0628.md)
   * js 
 
-    * [es6 模板字符串](https://blog.csdn.net/qq_30100043/article/details/53188139)  
+    * [es6 模板字符串](https://blog.csdn.net/qq_30100043/article/details/53188139) 
+    * [es6 模板字符串2](https://www.cnblogs.com/chengdabelief/p/6688872.html) 
   * css  
     * [媒体查询]()
   * html  
   * vue
+    * [echarts... not exists. Load it first](feC-aq/vue/库图不存在.md)
     * [样式没应用](feC-aq/vue/样式没应用.md)
     * [click无效](feC-aq/vue/click无效.md)
     * [返回 go -1](./feC-aq/vue/goback.md)
