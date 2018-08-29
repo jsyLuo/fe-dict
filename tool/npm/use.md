@@ -4,4 +4,13 @@
 
  * npm install grunt  # 本地安装
 
- * npm install -g grunt-cli # 全局安装
+ * npm install -g grunt-cli # 全局安装  
+
+ * npm uninstall vuex
+ npm install vuex@0.6.1 --save
+
+ * npm list cut-ui   // 查看版本号  
+ 
+ * npm ls cut-ui //查看版本号
+
+
