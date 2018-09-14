@@ -15,6 +15,21 @@
     * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
     * [前辈](link/前辈.md)
     * [技术](link/blog.md)
+* 技术网文 
+  * be
+    * [20180628](feA-list/be/be0628.md)
+  * fe 
+    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
+    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
+    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
+    * [20180527](./feA-list/fe/20180527.md) 
+  * js 
+    * [20180528](./feA-list/js/20180528.md) 
+  * css  
+    * [20180613](./feA-list/css/css20180613.md)
+  * html  
+  * vue 
+    * [20180612](./feA-list/vue/612.md)    
 * keyword
     * fe
       * [20180701](feC-aq/fe/0628.md)
@@ -44,23 +59,9 @@
     * [export default]()
     * [this作用域问题](feC-aq/vue/this.md)
       
-* 技术网文 
-  * be
-    * [20180628](feA-list/be/be0628.md)
-  * fe 
-    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
-    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
-    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
-    * [20180527](./feA-list/fe/20180527.md) 
-  * js 
-    * [20180528](./feA-list/js/20180528.md) 
-  * css  
-    * [20180613](./feA-list/css/css20180613.md)
-  * html  
-  * vue 
-    * [20180612](./feA-list/vue/612.md)
+
      
-  * 视频
+* 视频
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
 * [工具使用](tool/oftenUse.md)
   * vscode
