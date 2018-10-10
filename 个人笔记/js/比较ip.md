@@ -48,6 +48,17 @@
 [网易博客 - IPv6 大小的比较逐个字符](http://iamkiss.blog.163.com/blog/static/6175443201361725552606/)  
 [CSDN - 2个String(其实是IPv6地址)如何进行大小比较](https://bbs.csdn.net/topics/250061756)  
 [stack overflow- IPv6 as a comparable JavaScript string?](https://stackoverflow.com/questions/30329991/ipv6-as-a-comparable-javascript-string) 
+
+其中一个回答如下  
+
+Use the ip6 npm package to normalize the IPv6 addresses and then compare them directly.
+```
+let ip6 = require('ip6')
+
+console.log(ip6.normalize('2404:6800:4003:808::200e'));
+// 2404:6800:4003:0808:0000:0000:0000:200e 
+```
+
 [sg- me ask question about ipv6 compare](https://segmentfault.com/q/1010000016633162?_ea=4695211)  
 [myself github code check](https://github.com/pangniur/sth-little/blob/master/singleFile/ipv6.html)
 
