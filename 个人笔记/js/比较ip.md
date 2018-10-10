@@ -43,10 +43,9 @@
     }
 ```
 
-> ipv6相关的一些问题  
+> ipv6相关的一些问题    
 
 [网易博客 - IPv6 大小的比较逐个字符](http://iamkiss.blog.163.com/blog/static/6175443201361725552606/)  
-
 [CSDN - 2个String(其实是IPv6地址)如何进行大小比较](https://bbs.csdn.net/topics/250061756)  
 [stack overflow- IPv6 as a comparable JavaScript string?](https://stackoverflow.com/questions/30329991/ipv6-as-a-comparable-javascript-string) 
 [sg- me ask question about ipv6 compare](https://segmentfault.com/q/1010000016633162?_ea=4695211)  
