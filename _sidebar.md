@@ -30,24 +30,18 @@
   * html  
   * vue 
     * [20180612](./feA-list/vue/612.md)    
-* keyword
-    * fe
-      * [20180701](个人笔记/fe/0628.md)
-    * be
-      * [20180528](个人笔记/be/20180528.md)
-      * [关于框架](个人笔记/be/关于框架.md)
-    * [js](./个人笔记/js/keyword0528.md)
-    * [css](./个人笔记/css/keyword611.md)
-      * [中英文对齐问题](./个人笔记/css/中英文对齐.md)  
+    
 * 个人笔记
   * [want模仿网站](个人笔记/somePage/0627.md)
   * fe
     * [list0628](个人笔记/fe/0628.md)
-  * js 
+  * [js](./个人笔记/js/keyword0528.md) 
+    * [ip比大小](个人笔记/js/比较ip.md)
     * [toFixed函数](个人笔记/js/toFix.md)
     * [es6 模板字符串](https://blog.csdn.net/qq_30100043/article/details/53188139) 
     * [es6 模板字符串2](https://www.cnblogs.com/chengdabelief/p/6688872.html) 
-  * css  
+  * [css](./个人笔记/css/keyword611.md) 
+    * [中英文对齐问题](./个人笔记/css/中英文对齐.md)  
     * [媒体查询]()
     * [伪元素伪类](个人笔记/css/伪元素伪类.md)
   * html  
@@ -59,6 +53,11 @@
     * [list0604](./个人笔记/vue/list0604.md)
     * [export default]()
     * [this作用域问题](个人笔记/vue/this.md)
+  * be
+    * [20180528](个人笔记/be/20180528.md)
+    * [关于框架](个人笔记/be/关于框架.md)  
+  * 计算机
+    * [认识ipv6](个人笔记/计算机/ipv6.md)  
       
 
      
