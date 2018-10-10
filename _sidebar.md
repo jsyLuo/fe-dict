@@ -32,32 +32,33 @@
     * [20180612](./feA-list/vue/612.md)    
 * keyword
     * fe
-      * [20180701](feC-aq/fe/0628.md)
+      * [20180701](个人笔记/fe/0628.md)
     * be
-      * [20180528](feC-aq/be/20180528.md)
-      * [关于框架](feC-aq/be/关于框架.md)
-    * [js](./feC-aq/js/keyword0528.md)
-    * [css](./feC-aq/css/keyword611.md)
-      * [中英文对齐问题](./feC-aq/css/中英文对齐.md)  
+      * [20180528](个人笔记/be/20180528.md)
+      * [关于框架](个人笔记/be/关于框架.md)
+    * [js](./个人笔记/js/keyword0528.md)
+    * [css](./个人笔记/css/keyword611.md)
+      * [中英文对齐问题](./个人笔记/css/中英文对齐.md)  
 * 个人笔记
-  * [want模仿网站](feC-aq/somePage/0627.md)
+  * [want模仿网站](个人笔记/somePage/0627.md)
   * fe
-    * [list0628](fec-aq/fe/0628.md)
+    * [list0628](个人笔记/fe/0628.md)
   * js 
-
+    * [toFixed函数](个人笔记/js/toFix.md)
     * [es6 模板字符串](https://blog.csdn.net/qq_30100043/article/details/53188139) 
     * [es6 模板字符串2](https://www.cnblogs.com/chengdabelief/p/6688872.html) 
   * css  
     * [媒体查询]()
+    * [伪元素伪类](个人笔记/css/伪元素伪类.md)
   * html  
   * vue
-    * [echarts... not exists. Load it first](feC-aq/vue/库图不存在.md)
-    * [样式没应用](feC-aq/vue/样式没应用.md)
-    * [click无效](feC-aq/vue/click无效.md)
-    * [返回 go -1](./feC-aq/vue/goback.md)
-    * [list0604](./feC-aq/vue/list0604.md)
+    * [echarts... not exists. Load it first](个人笔记/vue/库图不存在.md)
+    * [样式没应用](个人笔记/vue/样式没应用.md)
+    * [click无效](个人笔记/vue/click无效.md)
+    * [返回 go -1](./个人笔记/vue/goback.md)
+    * [list0604](./个人笔记/vue/list0604.md)
     * [export default]()
-    * [this作用域问题](feC-aq/vue/this.md)
+    * [this作用域问题](个人笔记/vue/this.md)
       
 
      
@@ -98,10 +99,11 @@
 
 * 代码片段
   * js
-      * [复制到剪贴板](feC-aq/js/code/copy.md)
+      * [复制到剪贴板](个人笔记/js/code/copy.md)
       * [正则]()
       * [时间格式化]()
-      * [计算页面高度](./feC-aq/js/code/计算高度.md)
+      * [计算页面高度](./个人笔记/js/code/计算高度.md)
+      * [取区间随机数](代码片段/js/随机数.md)
       * [异步](代码片段/js/异步.md)
   * css
     * [强制换行](代码片段/css/强制换行.md)   
