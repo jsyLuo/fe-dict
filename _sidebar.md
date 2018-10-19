@@ -82,6 +82,7 @@
     * [包名list](tool/npm/myPackage.md)
    
   * [git](tool/git/git.md)
+    * [变基](tool/git/rebase.md)
     * [云仓库忽略下划线](tool/git/igmore-underscore.md)
     * gitbook
     * [clone 失败](tool/git/20180527/clone-fail.md)
