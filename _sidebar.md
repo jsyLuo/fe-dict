@@ -19,7 +19,7 @@
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
-    
+    * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
     * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
     * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
     * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
