@@ -19,6 +19,7 @@
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
+    
     * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
     * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
     * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
@@ -65,6 +66,8 @@
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
 * [工具使用](tool/oftenUse.md)
   * vscode
+    * [git 提交格式配置](tool/vscode/formatCommit.md)
+    * [team配置2](tool/vscode/ued2.md)
     * [team配置](tool/vscode/ued.md)
     * [同事Hu配置](tool/vscode/hu.md)
   * 第三方框架
@@ -82,16 +85,17 @@
     * [包名list](tool/npm/myPackage.md)
    
   * [git](tool/git/git.md)
+    * [场景](tool/git/场景.md)
     * [变基](tool/git/rebase.md)
     * [云仓库忽略下划线](tool/git/igmore-underscore.md)
     * gitbook
-    * [clone 失败](tool/git/20180527/clone-fail.md)
-    * [储藏stash](tool/git/20180527/stash.md)
-    * [遴选](tool/git/20180527/cherry.md)
-    * [error: You have not concluded your merge](tool/git/20180527/not-conclude-merge.md)
+    * [clone 失败](tool/git/clone-fail.md)
+    * [储藏stash](tool/git/stash.md)
+    * [遴选](tool/git/cherry.md)
+    * [error: You have not concluded your merge](tool/git/not-conclude-merge.md)
     * 分支打包
-    * [git Wip](tool/git/20180527/WIP.md)
-    * [撤销commit](tool/git/20180527/cancelCommit.md)
+    * [git Wip](tool/git/WIP.md)
+    * [撤销commit](tool/git/cancelCommit.md)
   * [docsify](tool/docsify.md) 
     * [其他](tool/docsify_other.md) 
   * Postman
@@ -111,7 +115,6 @@
     * [自定义下拉框](代码片段/vue/custom-select.md)  
 
 * 文件格式
-
   * [es6](format/es6.md)
   * [vuejs](format/vue.md)
   * [markdown](./format/markdown.md)
