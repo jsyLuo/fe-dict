@@ -89,7 +89,7 @@
     * [变基](tool/git/rebase.md)
     * [云仓库忽略下划线](tool/git/igmore-underscore.md)
     * gitbook
-    * [clone 失败](tool/git/clone-fail.md)
+    * [clone 失败](tool/git/cloneFail.md)
     * [储藏stash](tool/git/stash.md)
     * [遴选](tool/git/cherry.md)
     * [error: You have not concluded your merge](tool/git/not-conclude-merge.md)
@@ -104,11 +104,12 @@
 * 代码片段
   * js
       * [复制到剪贴板](个人笔记/js/code/copy.md)
-      * [正则]()
+      * [正则](代码片段/js/正则.md)
       * [时间格式化]()
       * [计算页面高度](./个人笔记/js/code/计算高度.md)
       * [取区间随机数](代码片段/js/随机数.md)
       * [异步](代码片段/js/异步.md)
+      * [下载url](代码片段/js/下载url.md)
   * css
     * [强制换行](代码片段/css/强制换行.md)   
   * vue

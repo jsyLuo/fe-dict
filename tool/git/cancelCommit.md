@@ -1,13 +1,19 @@
-[csdn blog](https://blog.csdn.net/dong19900415/article/details/70495716)
+[csdn blog](https://www.cnblogs.com/lyy-2016/p/6509707.html)
 
-在git push的时候，有时候我们会想办法撤销git commit的内容  
 
-1、找到之前提交的git commit的id 
-git log 
-找到想要撤销的id  
+> git log  查看git提交记录，包括commit的hashid
 
-2、git reset –hard id 
-完成撤销,同时将代码恢复到前一commit_id 对应的版本  
+1.第一种情况：还没有push，只是在本地commit
+git reset --soft  commit_id
+
+* 举例说明  
+
+  依次commit了  a 和 b  
+  只提交了本地，想取消commit b，  
+  git reset --soft  commit_b_id
  
-3、git reset id 
-完成Commit命令的撤销，但是不对代码修改进行撤销，可以直接通过git commit 重新提交对本地代码的修改
+2.第二种情况commit push 代码已经更新到远程仓库
+git revert commit_id
+
+
+
