@@ -1,10 +1,10 @@
 # Table of contents
 
 * [首页](README.md)
-* [英语单词](英语/计算机单词.md) [英文句子](英语/句子.md) 
+* [英语单词](英语/单词.md)-[英文句子](英语/句子.md) 
 * 链接
-  * [常用链接](link/link1.md)   [技术blog](link/subscibe.md) 
-  * [ts 入门](https://ts.xcatliu.com/) [官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
+  * [常用链接](link/link1.md)-[技术blog](link/subscibe.md) 
+  * [ts 入门](https://ts.xcatliu.com/)-[官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
   * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
   * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
   * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
