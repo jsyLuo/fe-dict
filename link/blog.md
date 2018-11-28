@@ -1,1 +1,0 @@
-[一步一步扎实基础的前端小白 | svn git](http://www.cnblogs.com/lucio110/tag/SVN/)

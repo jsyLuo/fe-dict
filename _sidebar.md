@@ -1,24 +1,20 @@
 # Table of contents
 
 * [首页](README.md)
-* [英语](英语/计算机单词.md)
-  * [生活英语单词](英语/单词.md)
-  * [计算机单词](英语/计算机单词.md)
-  * [英文句子](英语/句子.md)
+* [英语单词](英语/计算机单词.md) [英文句子](英语/句子.md) 
 * 链接
-  * [常用链接](link/link1.md)
-  * [前端推荐链接](link/link2.md)
-  * [订阅技术](link/subscibe.md) 
-  * 博客链接
-    * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
-    * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
-    * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
-    * [前辈](link/前辈.md)
-    * [技术](link/blog.md)
+  * [常用链接](link/link1.md)   [技术blog](link/subscibe.md) 
+  * [ts 入门](https://ts.xcatliu.com/) [官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
+  * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
+  * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
+  * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
+
 * 技术网文 
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
+    * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
+    * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
     * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
     * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
     * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
@@ -37,6 +33,8 @@
   * fe
     * [list0628](个人笔记/fe/0628.md)
   * [js](./个人笔记/js/keyword0528.md) 
+    * [ajax访问本地json]()
+    * [登录页去掉默认保存密码](./个人笔记/js/去掉默认密码.md)
     * [ip比大小](个人笔记/js/比较ip.md)
     * [toFixed函数](个人笔记/js/toFix.md)
     * [es6 模板字符串](https://blog.csdn.net/qq_30100043/article/details/53188139) 
@@ -45,7 +43,8 @@
     * [中英文对齐问题](./个人笔记/css/中英文对齐.md)  
     * [媒体查询]()
     * [伪元素伪类](个人笔记/css/伪元素伪类.md)
-  * html  
+
+     
   * vue
     * [echarts... not exists. Load it first](个人笔记/vue/库图不存在.md)
     * [样式没应用](个人笔记/vue/样式没应用.md)
@@ -129,7 +128,6 @@
     * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
     * [模块导入导出](./format/module-all.md)
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
-
 
 * 面试笔试
   * [面试经过](./link/interview.md) 
