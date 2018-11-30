@@ -1,10 +1,12 @@
 # Table of contents
 
 * [首页](README.md)
-* [英语单词](英语/单词.md)-[英文句子](英语/句子.md) 
+* [英语单词](英语/单词.md)
+* [英文句子](英语/句子.md) 
 * 链接
   * [常用链接](link/link1.md)-[技术blog](link/subscibe.md) 
-  * [ts 入门](https://ts.xcatliu.com/)-[官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
+  * [ts 入门](https://ts.xcatliu.com/)
+  * [官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
   * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
   * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
   * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
@@ -13,6 +15,7 @@
   * be
     * [20180628](feA-list/be/be0628.md)
   * fe 
+    * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
     * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
     * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
     * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
