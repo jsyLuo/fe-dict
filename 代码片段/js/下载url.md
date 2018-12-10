@@ -27,6 +27,7 @@ window.open打不开网址
 
  
 #### 同事源版本
+> plugins/download.js
 ```
 /**
  * @description 下载插件，传入Promise后，符合数据格式自动打开页面下载，数据格式{data:{url}}
@@ -63,4 +64,35 @@ export default {
   }
 }
 
+```
+> plugins/index.js
+```
+import Download from './download'
+const installer = function (Vue) {
+  Vue.use(Download)
+}
+
+export default installer
+```
+
+> main.js
+```
+// plugins
+import plugins from './plugins'
+// installer
+Vue.use(plugins)
+/* eslint-disable no-new */
+new Vue({
+  el: '#app',
+  router,
+  store,
+  template: '<App/>',
+  components: { App }
+})
+
+```
+```
+    async handleDownloadFile (arg) {
+      this.$dw(getResources({ url: arg }))
+    },
 ```

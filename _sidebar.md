@@ -4,38 +4,17 @@
 * [英语单词](英语/单词.md)
 * [英文句子](英语/句子.md) 
 * 链接
-  * [常用链接](link/link1.md)-[技术blog](link/subscibe.md) 
+  * [常用链接](link/link1.md)
+  * [技术blog](link/subscibe.md) 
   * [ts 入门](https://ts.xcatliu.com/)
   * [官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
   * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
   * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
   * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
-
-* 技术网文 
-  * be
-    * [20180628](feA-list/be/be0628.md)
-  * fe 
-    * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
-    * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
-    * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
-    * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
-    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
-    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
-    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
-    * [20180527](./feA-list/fe/20180527.md) 
-  * js 
-    * [20180528](./feA-list/js/20180528.md) 
-  * css  
-    * [20180613](./feA-list/css/css20180613.md)
-  * html  
-  * vue 
-    * [20180612](./feA-list/vue/612.md)    
     
 * 个人笔记
-  * [want模仿网站](个人笔记/somePage/0627.md)
-  * fe
-    * [list0628](个人笔记/fe/0628.md)
   * [js](./个人笔记/js/keyword0528.md) 
+    * [es6 rest参数](个人笔记/js/rest参数.md) 
     * [ajax访问本地json]()
     * [登录页去掉默认保存密码](./个人笔记/js/去掉默认密码.md)
     * [ip比大小](个人笔记/js/比较ip.md)
@@ -46,6 +25,9 @@
     * [中英文对齐问题](./个人笔记/css/中英文对齐.md)  
     * [媒体查询]()
     * [伪元素伪类](个人笔记/css/伪元素伪类.md)
+  * [want模仿网站](个人笔记/somePage/0627.md)
+  * fe
+    * [list0628](个人笔记/fe/0628.md)
 
      
   * vue
@@ -63,6 +45,25 @@
     * [认识ipv6](个人笔记/计算机/ipv6.md)  
       
 
+* 技术网文 
+  * fe 
+    * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
+    * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
+    * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
+    * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
+    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
+    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
+    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
+    * [20180527](./feA-list/fe/20180527.md) 
+  * js 
+    * [20180528](./feA-list/js/20180528.md) 
+  * css  
+    * [20180613](./feA-list/css/css20180613.md)
+  * html  
+  * vue 
+    * [20180612](./feA-list/vue/612.md)    
+  * be
+    * [20180628](feA-list/be/be0628.md)
      
 * 视频
     * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
