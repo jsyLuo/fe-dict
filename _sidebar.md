@@ -1,8 +1,9 @@
 # Table of contents
 
 * [首页](README.md)
-* [英语单词](英语/单词.md)
-* [英文句子](英语/句子.md) 
+* [英语](英语/单词.md)
+* [数学符号](其他/数学符号.md)
+* [声母韵母](其他/声母韵母.md)
 * 链接
   * [常用链接](link/link1.md)
   * [技术blog](link/subscibe.md) 
