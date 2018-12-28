@@ -140,5 +140,5 @@
   * 岗位要求
     * [阿里的 P6 到底是什么标准？淘宝店铺团队招人！](https://mp.weixin.qq.com/s/JM9RLZT6--PS30JPezZaXQ)   
   * 题目链接   
-* [尾页](endPage.md)
+* [尾页](其他/endPage.md)
 

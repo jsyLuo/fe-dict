@@ -1,3 +1,14 @@
+#### 1228
+ npm查看本地安装的包版本号  
+```
+ npm ls <packageName>        // 本地包
+ npm ls <packageName> -g     // 全局安装包  
+ 
+ ~a.b.c :    取最新的c的版本号值，a与b保持不变
+ ^a.b.c :    取b和c均为最新版本号，a保持不变
+```
+
+ #### before
  * npm init 命令为你的应用创建一个 package.json 文件
 
  *  npm install 命令可自动安装依赖列表中所列出的所有模块,包括代码依赖和辅助依赖。
