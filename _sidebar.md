@@ -97,13 +97,28 @@
     * [储藏stash](tool/git/stash.md)
     * [遴选](tool/git/cherry.md)
     * [error: You have not concluded your merge](tool/git/not-conclude-merge.md)
-    * 分支打包
+    * [分支](tool/git/git-branch.md)
     * [git Wip](tool/git/WIP.md)
     * [撤销commit](tool/git/cancelCommit.md)
   * [docsify](tool/docsify.md) 
     * [其他](tool/docsify_other.md) 
   * Postman
   * [正则](tool/regular.md)
+* 工程规范
+  * visula studio code规范
+    * [插件统一](tool/hegui/vscode/插件.md)
+    * [editorconfig 配置](tool/hegui/vscode/editorconfig.md)
+    * [注释](tool/hegui/vscode/注释.md)
+    * [用户设置](tool/hegui/vscode/用户设置.md) 
+    * [esLint](tool/hegui/vscode/eslint.md) 
+      * [prop验证](tool/hegui/vscode/eslint参考格式.md)
+      * [属性顺序](tool/hegui/vscode/属性顺序.md) 
+      * [常见错误](tool/hegui/vscode/eslint常见错误.md) 
+  
+  * git-commit规范
+    * [基本格式](tool/hegui/gitCommit/基本格式.md)
+    * [package.json配置](tool/hegui/gitCommit/package.md)
+    * [changeLog](tool/hegui/gitCommit/changeLog.md) 
 
 * 代码片段
   * js
