@@ -90,6 +90,7 @@
    
   * [git](tool/git/git.md)
     * [场景](tool/git/场景.md)
+    * [统计代码提交数量](tool/git/count.md)
     * [变基](tool/git/rebase.md)
     * [云仓库忽略下划线](tool/git/igmore-underscore.md)
     * gitbook
