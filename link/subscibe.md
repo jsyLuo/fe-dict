@@ -15,6 +15,15 @@
 * [晚晴幽草轩(前端资源集合)](https://jeffjade.com/2016/03/30/104-front-end-tutorial/#)
 * [张鑫旭(前端方向)](http://www.zhangxinxu.com/wordpress/2016/08/find-own-frontend-direction/)
 
+
+##### someone
+[Channely GitHub](https://github.com/Channely?tab=followers) [Channely sf](https://segmentfault.com/u/channely) &nbsp;
+
+[地瓜个人](https://digua.me/)  &nbsp;[地瓜GitHub](https://github.com/hellodigua)  
+
+[大厨师](https://xjie.me/)  
+[楼教主](https://www.52cik.com/)
+
 #### 0626 
 [采集有趣的网站UI代码片段 | wen~](https://codemyui.com/)  
 [一步一步扎实基础的前端小白 | svn git](http://www.cnblogs.com/lucio110/tag/SVN/)
