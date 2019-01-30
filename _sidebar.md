@@ -48,6 +48,7 @@
 
 * 技术网文 
   * fe 
+    * [在2018年下半年，前端现在好吗，有发展前途吗？](https://www.zhihu.com/question/300565786/answer/532284120)
     * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
     * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
     * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
