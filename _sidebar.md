@@ -1,18 +1,10 @@
 # Table of contents
 
-* [首页](README.md)
+
 * [英语](英语/单词.md)
-* [数学符号](其他/数学符号.md)
-* [ascii码](其他/ascii.md)
-* [声母韵母](其他/声母韵母.md)
-* 链接
-  * [常用链接](link/link1.md)
-  * [技术blog](link/subscibe.md) 
-  * [ts 入门](https://ts.xcatliu.com/)
-  * [官网文档](https://zhongsp.gitbooks.io/typescript-handbook/)
-  * [阮一峰 es6入门](http://es6.ruanyifeng.com/)
-  * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
-  * [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
+* [链接](link/link1.md)
+
+
     
 * 个人笔记
   * [js](./个人笔记/js/keyword0528.md) 
@@ -159,5 +151,6 @@
   * 岗位要求
     * [阿里的 P6 到底是什么标准？淘宝店铺团队招人！](https://mp.weixin.qq.com/s/JM9RLZT6--PS30JPezZaXQ)   
   * 题目链接   
+* [附录常识](其他/常用常识.md) 
 * [尾页](其他/endPage.md)
 

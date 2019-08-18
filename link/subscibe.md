@@ -6,6 +6,8 @@
 
 
 ##### 技术博客
+* [阮一峰 es6入门](http://es6.ruanyifeng.com/)
+* [小胡子哥(ES6扫盲)](http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/)
 * [阮一峰(js标准参考教程)](http://javascript.ruanyifeng.com/)
 * [阮一峰(SSL/TLS)](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 * [阮一峰git教程](http://www.ruanyifeng.com/blog/2012/07/git.html)
@@ -17,12 +19,11 @@
 
 
 ##### someone
-[Channely GitHub](https://github.com/Channely?tab=followers) [Channely sf](https://segmentfault.com/u/channely) &nbsp;
+[Channely GitHub](https://github.com/Channely?tab=followers) [Channely sf](https://segmentfault.com/u/channely) &nbsp;[Channely db](https://www.douban.com/people/coderman/)
 
 [地瓜个人](https://digua.me/)  &nbsp;[地瓜GitHub](https://github.com/hellodigua)  
 
-[大厨师](https://xjie.me/)  
-[楼教主](https://www.52cik.com/)
+[大厨师](https://xjie.me/)  [楼教主](https://www.52cik.com/)
 
 #### 0626 
 [采集有趣的网站UI代码片段 | wen~](https://codemyui.com/)  
