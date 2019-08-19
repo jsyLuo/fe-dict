@@ -7,6 +7,17 @@
 
     
 * 个人笔记
+  * vue
+    * [echarts... not exists. Load it first](个人笔记/vue/库图不存在.md)
+    * [样式没应用](个人笔记/vue/样式没应用.md)
+    * [click无效](个人笔记/vue/click无效.md)
+    * [返回 go -1](./个人笔记/vue/goback.md)
+    * [list0604](./个人笔记/vue/list0604.md)
+    * [export default]()
+    * [this作用域问题](个人笔记/vue/this.md)
+  * be
+    * [20180528](个人笔记/be/20180528.md)
+    * [关于框架](个人笔记/be/关于框架.md) 
   * [js](./个人笔记/js/keyword0528.md) 
     * [浏览器默认语言](个人笔记/js/浏览器语言.md)
     * [es6 rest参数](个人笔记/js/rest参数.md) 
@@ -21,48 +32,12 @@
     * [媒体查询]()
     * [伪元素伪类](个人笔记/css/伪元素伪类.md)
   * [want模仿网站](个人笔记/somePage/0627.md)
-  * fe
+  * fe 关键字
     * [list0628](个人笔记/fe/0628.md)
 
-     
-  * vue
-    * [echarts... not exists. Load it first](个人笔记/vue/库图不存在.md)
-    * [样式没应用](个人笔记/vue/样式没应用.md)
-    * [click无效](个人笔记/vue/click无效.md)
-    * [返回 go -1](./个人笔记/vue/goback.md)
-    * [list0604](./个人笔记/vue/list0604.md)
-    * [export default]()
-    * [this作用域问题](个人笔记/vue/this.md)
-  * be
-    * [20180528](个人笔记/be/20180528.md)
-    * [关于框架](个人笔记/be/关于框架.md)  
   * 计算机
     * [认识ipv6](个人笔记/计算机/ipv6.md)  
       
-
-* 技术网文 
-  * fe 
-    * [在2018年下半年，前端现在好吗，有发展前途吗？](https://www.zhihu.com/question/300565786/answer/532284120)
-    * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
-    * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
-    * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
-    * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
-    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
-    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
-    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
-    * [20180527](./feA-list/fe/20180527.md) 
-  * js 
-    * [20180528](./feA-list/js/20180528.md) 
-  * css  
-    * [20180613](./feA-list/css/css20180613.md)
-  * html  
-  * vue 
-    * [20180612](./feA-list/vue/612.md)    
-  * be
-    * [20180628](feA-list/be/be0628.md)
-     
-* 视频
-    * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian) 
 * [工具使用](tool/oftenUse.md)
   * vscode
     * [git 提交格式配置](tool/vscode/formatCommit.md)
@@ -144,6 +119,29 @@
     * [模块代码格式 commonjs 和 es6](./format/module-es6-commonjs.md) 
     * [模块导入导出](./format/module-all.md)
     * [RequireJS的几种define定义方式](https://blog.csdn.net/itpinpai/article/details/52366498) 
+* 技术网文 
+  * fe 
+    * [在2018年下半年，前端现在好吗，有发展前途吗？](https://www.zhihu.com/question/300565786/answer/532284120)
+    * [在2018年如何优雅的开发一个typescript语言的npm包？设置 git 提交的校验钩子](https://juejin.im/post/5bfcb87ce51d45378d0d28d8)
+    * [像呼吸一样自然：React hooks + RxJS](https://zhuanlan.zhihu.com/p/50921147)
+    * [2018 JavaScript 现状调查报告火热出炉！](www.oschina.net/news/101954/the-state-of-javascript-2018)
+    * [2018你成长了么？一份给你的前端技术清单](https://segmentfault.com/a/1190000016901398)
+    * [web移动端布局的那些事儿](https://juejin.im/post/5b6575b0518825196b01fd85)
+    * [聊一聊几种常用web图片格式：gif、jpg、png、webp](https://juejin.im/post/5b32ea55e51d4558bf7c45e0)
+    * [拿4k的前端开发都会做些什么？](https://www.zhihu.com/question/276412426/answer/416383696)
+    * [20180527](./feA-list/fe/20180527.md) 
+  * js 
+    * [20180528](./feA-list/js/20180528.md) 
+  * css  
+    * [20180613](./feA-list/css/css20180613.md)
+  * html  
+  * vue 
+    * [20180612](./feA-list/vue/612.md)    
+  * be
+    * [20180628](feA-list/be/be0628.md)
+     
+  * 视频
+    * [Nodejs + Express + MongoDB 基础篇 | rails 365](https://www.rails365.net/playlists/nodejs-express-mongodb-ji-chu-pian)     
 
 * 面试笔试
   * [面试经过](./link/interview.md) 
