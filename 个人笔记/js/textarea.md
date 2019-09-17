@@ -1,4 +1,17 @@
-[link](https://blog.csdn.net/hj7jay/article/details/74279967)
+![](images/换行.png)
+[link2](https://ask.csdn.net/questions/694446)  
+
+q：
+EXTJS textarea内容有按回车键换行，之后无法提交文本域的值到后台
+我用谷歌前端debugger时发现数值中多了个符号如图
+a：
+ 那个是\n回车符号啊。。ie下回车由\r\n组成，非ie是\n，要统一你应该替换掉\r，将r变为n。而且replace只替换一次，多个要用正则
+
+ xxxx.replace(/\r/g,'').replace(/\n/g,'\\\\n')
+
+
+--------------------------------------------
+[link1](https://blog.csdn.net/hj7jay/article/details/74279967)
 
 
 问题：
