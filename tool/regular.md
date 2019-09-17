@@ -1,3 +1,21 @@
+###正则表达式中/i,/g,/ig,/gi,/m的区别和含义
+https://www.cnblogs.com/zhangq/p/6855952.html
+```
+ /i (忽略大小写)
+/g (全文查找出现的所有匹配字符)
+/m (多行查找)
+/gi(全文查找、忽略大小写)
+/ig(全文查找、忽略大小写)
+
+即new RegExp("模式"[,"标记"])）
+
+ 
+pattern(模式)表示正则表达式的文本 
+flags(标记)：如果指定此项，flags可以是下面值之一：
+/ab+c/gi
+```
+
+
 ```
 /* 正则列表 */
 export default {

@@ -15,10 +15,9 @@
     * [list0604](./个人笔记/vue/list0604.md)
     * [export default]()
     * [this作用域问题](个人笔记/vue/this.md)
-  * be
-    * [20180528](个人笔记/be/20180528.md)
-    * [关于框架](个人笔记/be/关于框架.md) 
+ 
   * [js](./个人笔记/js/keyword0528.md) 
+    * [获取textarea标签中的换行符和空格](个人笔记/js/textarea.md)
     * [浏览器默认语言](个人笔记/js/浏览器语言.md)
     * [es6 rest参数](个人笔记/js/rest参数.md) 
     * [ajax访问本地json]()
@@ -34,6 +33,9 @@
   * [want模仿网站](个人笔记/somePage/0627.md)
   * fe 关键字
     * [list0628](个人笔记/fe/0628.md)
+  * be
+    * [20180528](个人笔记/be/20180528.md)
+    * [关于框架](个人笔记/be/关于框架.md)
 
   * 计算机
     * [认识ipv6](个人笔记/计算机/ipv6.md)  
