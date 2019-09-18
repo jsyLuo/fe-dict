@@ -1,3 +1,30 @@
+
+### [MDN 正则](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+
+\s匹配一个空白字符，包括空格、制表符、换页符和换行符。等价于[ \f\n\r\t\v\u00a0\u1680\u180e\u2000-\u200a\u2028\u2029\u202f\u205f\u3000\ufeff]。
+
+例如, /\s\w*/ 匹配"foo bar."中的' bar'。
+
+---
+
+```js
+    changeMyTextarea(v) {
+      let a = v.target.value
+      let b = a.replace(/\n/g, ',')
+      let c = a.split(/[\r\n]+/).join(',')
+
+      let e = a
+        .replace(/^[\r\n\s\uFEFF\xA0]+|[\r\n\s\uFEFF\xA0]+$/g, '')
+        .split(/[\r\n]+/)
+        .map(e => e.trim())
+        .filter(Boolean)
+        .join(',')
+      console.log('a is..\n', a, '\nb is ..\n', b, '\nc is ..', c, '\ne is ..', e)
+    },
+```
+---
+
 ###正则表达式中/i,/g,/ig,/gi,/m的区别和含义
 https://www.cnblogs.com/zhangq/p/6855952.html
 ```
