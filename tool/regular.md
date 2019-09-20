@@ -1,10 +1,8 @@
-
 ### [MDN 正则](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)
 
+\s 匹配一个空白字符，包括空格、制表符、换页符和换行符。等价于[ \f\n\r\t\v\u00a0\u1680\u180e\u2000-\u200a\u2028\u2029\u202f\u205f\u3000\ufeff]。
 
-\s匹配一个空白字符，包括空格、制表符、换页符和换行符。等价于[ \f\n\r\t\v\u00a0\u1680\u180e\u2000-\u200a\u2028\u2029\u202f\u205f\u3000\ufeff]。
-
-例如, /\s\w*/ 匹配"foo bar."中的' bar'。
+例如, /\s\w\*/ 匹配"foo bar."中的' bar'。
 
 ---
 
@@ -15,7 +13,7 @@
       let c = a.split(/[\r\n]+/).join(',')
 
       let e = a
-        .replace(/^[\r\n\s\uFEFF\xA0]+|[\r\n\s\uFEFF\xA0]+$/g, '')
+        .replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g, '')
         .split(/[\r\n]+/)
         .map(e => e.trim())
         .filter(Boolean)
@@ -23,10 +21,34 @@
       console.log('a is..\n', a, '\nb is ..\n', b, '\nc is ..', c, '\ne is ..', e)
     },
 ```
+
 ---
 
-###正则表达式中/i,/g,/ig,/gi,/m的区别和含义
+```js
+
+    myCheckNumber(rule, value, cb) {
+      console.log('check v', value)
+      if (value != '' && !/^[1-9]\d*$/.test(value)) {
+        cb('请输入正确数字')
+      } else {
+        let v = parseInt(value)
+        if (v < 1) {
+          return cb('最小值是1')
+        } else if (v > 5000) {
+          return cb('最大值不超过5000')
+        } else {
+          cb()
+        }
+      }
+    },
+
+```
+
+---
+
+###正则表达式中/i,/g,/ig,/gi,/m 的区别和含义
 https://www.cnblogs.com/zhangq/p/6855952.html
+
 ```
  /i (忽略大小写)
 /g (全文查找出现的所有匹配字符)
@@ -36,12 +58,11 @@ https://www.cnblogs.com/zhangq/p/6855952.html
 
 即new RegExp("模式"[,"标记"])）
 
- 
-pattern(模式)表示正则表达式的文本 
+
+pattern(模式)表示正则表达式的文本
 flags(标记)：如果指定此项，flags可以是下面值之一：
 /ab+c/gi
 ```
-
 
 ```
 /* 正则列表 */
