@@ -1,63 +1,173 @@
-[eslint中文网](http://eslint.cn/)  
+[eslint 中文网](http://eslint.cn/)
 
-[风格指南之强烈推荐规范-vue官网](https://cn.vuejs.org/v2/style-guide/)  
+[风格指南之强烈推荐规范-vue 官网](https://cn.vuejs.org/v2/style-guide/)
 
-[eslint-plugin-vue github](https://github.com/vuejs/eslint-plugin-vue)      &&nbsp;[使用手册](https://vuejs.github.io/eslint-plugin-vue/user-guide/#installation)  
+[eslint-plugin-vue github](https://github.com/vuejs/eslint-plugin-vue) &&nbsp;[使用手册](https://vuejs.github.io/eslint-plugin-vue/user-guide/#installation)
 
-> package.json  
+## 20191021
 
- "eslint": "^3.19.0"   --->  "^5.9.0"   
- "eslint-plugin-vue": "^2.1.0"    --->  "^4.7.1"  
- 
+```json
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/strongly-recommended",
+      "@vue/standard"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "generator-star-spacing": "off",
+      "no-mixed-operators": 0,
+      "vue/max-attributes-per-line": [
+        2,
+        {
+          "singleline": 5,
+          "multiline": {
+            "max": 1,
+            "allowFirstLine": false
+          }
+        }
+      ],
+      "vue/attribute-hyphenation": 0,
+      "vue/html-self-closing": 0,
+      "vue/component-name-in-template-casing": 0,
+      "vue/html-closing-bracket-spacing": 0,
+      "vue/singleline-html-element-content-newline": 0,
+      "vue/no-unused-components": 0,
+      "vue/multiline-html-element-content-newline": 0,
+      "vue/no-use-v-if-with-v-for": 0,
+      "vue/html-closing-bracket-newline": 0,
+      "vue/no-parsing-error": 0,
+      "no-console": 0,
+      "no-tabs": 0,
+      "quotes": [
+        2,
+        "single",
+        {
+          "avoidEscape": true,
+          "allowTemplateLiterals": true
+        }
+      ],
+      "semi": [
+        2,
+        "never",
+        {
+          "beforeStatementContinuationChars": "never"
+        }
+      ],
+      "no-delete-var": 2,
+      "prefer-const": [
+        2,
+        {
+          "ignoreReadBeforeAssign": false
+        }
+      ]
+    }
+  }
+```
+
+## 20190104
+
+> package.json
+
+"eslint": "^3.19.0" ---> "^5.9.0"  
+ "eslint-plugin-vue": "^2.1.0" ---> "^4.7.1"
+
 > .eslintrc.js
 
-```
+```js
 // 老何 12月25日 19:00
 // http://eslint.org/docs/user-guide/configuring
- 
+
 module.exports = {
   root: true,
   env: {
-    'browser': true
+    browser: true
   },
-  extends: [
-    'plugin:vue/strongly-recommended'
-  ],
+  extends: ["plugin:vue/strongly-recommended"],
   parserOptions: {
-    'parser': 'babel-eslint'
+    parser: "babel-eslint"
   },
   rules: {
-    'arrow-parens': 2,
-    'lines-around-comment': [1, {
-      'beforeBlockComment': true
-    }],
-    'generator-star-spacing': [2, {
-      'before': true,
-      'after': true
-    }],
-    'space-before-function-paren': [2, {
-      'anonymous': 'never',
-      'named': 'never',
-      'asyncArrow': 'always'
-    }],
-    'new-cap': 0,
-    'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
- 
+    "arrow-parens": 2,
+    "lines-around-comment": [
+      1,
+      {
+        beforeBlockComment: true
+      }
+    ],
+    "generator-star-spacing": [
+      2,
+      {
+        before: true,
+        after: true
+      }
+    ],
+    "space-before-function-paren": [
+      2,
+      {
+        anonymous: "never",
+        named: "never",
+        asyncArrow: "always"
+      }
+    ],
+    "new-cap": 0,
+    "no-debugger": process.env.NODE_ENV === "production" ? 2 : 0,
+
     // vue
-    'vue/html-self-closing': 2,
-    'vue/max-attributes-per-line': 0,
-    'vue/no-v-html': 1,
-    'vue/order-in-components': [1, {
-      'order': ['el', 'name', 'parent', 'functional', ['delimiters', 'comments'], ['components', 'directives', 'filters'], 'extends', 'mixins', 'inheritAttrs', 'model', ['props', 'propsData'], 'data', 'computed', 'watch', 'LIFECYCLE_HOOKS', 'methods', ['template', 'render'], 'renderError']
-    }],
-    'vue/attributes-order': [1, {
-      'order': ['DEFINITION', 'LIST_RENDERING', 'CONDITIONALS', 'RENDER_MODIFIERS', 'GLOBAL', 'UNIQUE', ['BINDING', 'OTHER_ATTR'], 'EVENTS', 'CONTENT']
-    }]
+    "vue/html-self-closing": 2,
+    "vue/max-attributes-per-line": 0,
+    "vue/no-v-html": 1,
+    "vue/order-in-components": [
+      1,
+      {
+        order: [
+          "el",
+          "name",
+          "parent",
+          "functional",
+          ["delimiters", "comments"],
+          ["components", "directives", "filters"],
+          "extends",
+          "mixins",
+          "inheritAttrs",
+          "model",
+          ["props", "propsData"],
+          "data",
+          "computed",
+          "watch",
+          "LIFECYCLE_HOOKS",
+          "methods",
+          ["template", "render"],
+          "renderError"
+        ]
+      }
+    ],
+    "vue/attributes-order": [
+      1,
+      {
+        order: [
+          "DEFINITION",
+          "LIST_RENDERING",
+          "CONDITIONALS",
+          "RENDER_MODIFIERS",
+          "GLOBAL",
+          "UNIQUE",
+          ["BINDING", "OTHER_ATTR"],
+          "EVENTS",
+          "CONTENT"
+        ]
+      }
+    ]
   }
-}
+};
 ```
 
-> 自动修复  
+> 自动修复
 
 ```
   "scripts": {
@@ -66,8 +176,8 @@ module.exports = {
   npm run lint
 ```
 
-> 旧版本  
-  
+> 旧版本
+
 ```
 // http://eslint.org/docs/user-guide/configuring
 
@@ -123,4 +233,4 @@ module.exports = {
   }
 }
 
-``` 
+```
