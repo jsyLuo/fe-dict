@@ -22,6 +22,8 @@
         > vue add element
 ```
 
+> 进入到 modules 目录然后 npm list <packageName>
+
 #### 1228
 
 npm 查看本地安装的包版本号
