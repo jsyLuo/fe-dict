@@ -54,6 +54,8 @@
     - [vue resource](https://www.cnblogs.com/chenhuichao/p/8308993.html)
   - 插件
     - [bootstrap table]()
+  - yarn
+    - [基本使用](tool/yarn/use.md)
   - npm
 
     - [基本使用](tool/npm/use.md)
